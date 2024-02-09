@@ -1,0 +1,18 @@
+Only Save the changes to the file -  ':w'
+To quit from vi - ':q!'
+Save and quit from vi - ':wq!' or (<escape> - Hold shift + zz)
+Save to another file - ':w <new_file
+s/Linux is easy to learn. linux is a multiuser os. Learn linux .linux is a powerful.
+Linux is easy to learn. linux is a multiuser os. Learn linux .linux is a powerful.
+To search a word - '/<word>'
+To replace word - s/<old_word>/<new_word>/g
+iTo display line numbers - ':set nu'
+iTo display line numbers - ':set nu'
+kay how are you15 14 2  doing
+To display line numbers 6 9 4 - ':nu'
+chandan Chandan Vivaana  e o i u  Vishika
+yy - copy the entire a c d line where the cursor is 
+Vivaan vishika chandan 
+Vishika Chandan Vivaan
+Chandan Vishikavivaan
+call him vijay p 4 6 4  paste the clipboard content next to the cursor 

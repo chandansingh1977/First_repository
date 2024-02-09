@@ -1,0 +1,10 @@
+NAME   DESIGNATION COMPANY LOCATION
+Chandan manager Onmobile  Bangalore
+Vivek  Quality   Vennar    Chennai
+Rajesh  Userexper  Infosys  Hydrebad
+Hema   Human   Datum  Pune
+
+
+
+
+Hema  Human Datum  Pune
