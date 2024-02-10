@@ -1,7 +1,6 @@
 iTo Display line numbers - ':set nu'
 iTo Display line numbers - ':set nu'
-iTo Display line numbers - ':set nu'
-iTo Display line numbers - ':set nu'
+
 To Display line numbers 6 9 4 - ':nu'
 chandan Chandan Vivaana  e o i u  Vishika
 yy - copy the entire a c d line where the cursor is 
