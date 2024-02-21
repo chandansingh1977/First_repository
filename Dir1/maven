@@ -11,3 +11,6 @@ echo
 echo " STEP 3: "Create a symbolic link of the mvn binary in $PATH (load the mvn command) "
 sudo ln -s /home/ubuntu/apache-maven-3.9.6/bin/mvn /usr/local/sbin/mvn
 sudo chmod 755 /usr/local/sbin/mvn
+
+echo
+echo "---------------mvn and jdk installed------------"
